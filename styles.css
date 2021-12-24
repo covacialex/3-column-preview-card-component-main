@@ -58,7 +58,6 @@ body {
   font-weight: 400;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
-  box-shadow: 0.1rem 0.1rem 100rem rgba(0, 0, 0, 0.5);
 }
 
 .card-text {
